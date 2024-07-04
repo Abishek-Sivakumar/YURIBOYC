@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YURIBOYC
-- I am currently learning python and i am sure i will come here one day.
+- 👋 Hi, I’m Abishek
+- I am cuurently an Undergraduate Student  
 
 <!---
 YURIBOYC/YURIBOYC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
